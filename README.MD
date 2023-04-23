@@ -1,0 +1,1 @@
+Ajustar as imagem de acordo com a responsividade - imagem de computador, tablet e smapr
